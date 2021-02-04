@@ -23,7 +23,7 @@ We train an audio model in my teachable machine using four audio classes namely 
 Combining the Snake game and Myteachable machine model with Javascript.
 The output of our code is displayed in the below repl.i link.
 
-![Snake-ML](https://user-images.githubusercontent.com/61058449/106642782-cf34f000-65ae-11eb-9c05-3c51c6d558e8.png)
+![Snake-ML](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/Screenshot%20(40).png)
 
 ### Repl link for game
 #### https://mlgame.yalangisanjay.repl.co/
