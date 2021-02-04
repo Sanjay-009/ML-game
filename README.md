@@ -23,29 +23,29 @@
 ##### Combining the Snake game and Myteachable machine model with Javascript.
 ##### The output of our code is displayed in the below repl.i link.
 
-![Snake-ML](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Game%20Starting.png)
+![Starting Game](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Game%20Starting.png)
 
 ### How it will work!
 
 #### Step-1:
 ##### Click on the start button and wait for 5 seconds to start the game. Then it shows loading.....
 
-![Snake-ML](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Loading.png)
+![Loading](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Loading.png)
 
 #### step-2:
 ##### Then wait for a while, Until it shows **Your move is waiting**.
 
-![Snake-ML](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Waiting%20for%20move.png)
+![Waiting for move](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Waiting%20for%20move.png)
 
 #### step-3:
 ##### Now you can speakout to move the snake by using the above commands and it will move accordingly....
 
-![Snake-ML](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Making%20move.png)
+![Making move](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/Making%20move.png)
 
 #### End game
 ##### If the snake touches the border line our game ends, It shows a red screen means **GAMEOVER**.
 
-![Snake-ML](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/GameOver.png)
+![GameOver](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/ML-Game/GameOver.png)
 
 ### Repl link for game
 #### https://mlgame.yalangisanjay.repl.co/
