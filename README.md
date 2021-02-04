@@ -42,6 +42,11 @@
 
 ![Snake-ML](https://raw.githubusercontent.com/Sanjay-009/ML-game/main/Making%20move.png)
 
+#### End game
+##### If the snake touches the border line our game ends, It shows a red screen means **GAMEOVER**.
+
+![Snake-ML](https://github.com/Sanjay-009/ML-game/blob/main/GameOver.png)
+
 ### Repl link for game
 #### https://mlgame.yalangisanjay.repl.co/
 
